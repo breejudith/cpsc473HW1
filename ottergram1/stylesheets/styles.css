@@ -98,30 +98,14 @@ a {
   align-items: center;
 }
 
-/*.new-detail-image-container {
-  flex: 1 1 auto;
-  display: flex;
-  justify-content: center;
-  align-items: center;
-}*/
-
 .detail-image-frame {
   position: relative;
   text-align: center;
 }
 
-/*.new-detail-image-frame {
-  position: relative;
-  text-align: center;
-}*/
-
 .detail-image {
   width: 90%;
 }
-
-/*.new-detail-image {
-  width: 90%;
-}*/
 
 .detail-image-title {
 position: absolute;
@@ -133,13 +117,3 @@ left: 4px;
   text-shadow: rgba(0, 0, 0, 0.9) 1px 2px 9px;
   font-size: 40px;
 }
-/*.new-detail-image-title {
-position: absolute;
-bottom: -16px;
-left: 4px;
-
-  font-family: airstreamregular;
-  color: white;
-  text-shadow: rgba(0, 0, 0, 0.9) 1px 2px 9px;
-  font-size: 40px;
-}*/
